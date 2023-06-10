@@ -1,2 +1,5 @@
 # 2023-OOP-CodeReading-test_task
-Tsinghua University 2023 OOP lessons code_reading task
+
+Test the [tinyxml2](https://github.com/leethomason/tinyxml2)
+
+Just use `make` build this test project.
