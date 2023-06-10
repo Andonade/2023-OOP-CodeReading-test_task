@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is a comment-->
+<bookstore>
+  <book category="fantasy literature">
+    <name lang="en">Harry Potter</name>
+    <author>J·K·Rowling</author>
+  </book>
+  <book category="fairy tale">
+    <name lang="ger">The Snow White</name>
+    <author>the Brothers Grimm</author>
+  </book>
+  <book category="science fiction">
+    <name lang="chn">三体</name>
+    <author>CiXin Liu</author>
+  </book>
+  <shelf materia="wood">
+    <quality>midium</quality>
+    <number>6</number>
+  </shelf>
+  <shelf materia="iron">
+    <quality>high</quality>
+    <number>5</number>
+  </shelf>
+</bookstore>

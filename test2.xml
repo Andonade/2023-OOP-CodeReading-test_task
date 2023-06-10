@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+    <book category="novel">
+        <name lang="fr">Red and Black</name>
+        <author>stendhal</author>
+    </book>
+    <book category="poetry">
+        <name lang="ind">Stray Birds</name>
+        <author>Tagore</author>
+    </book>    
+    <!--A comment-->
+</bookstore>
